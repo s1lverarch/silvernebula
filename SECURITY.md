@@ -14,8 +14,6 @@ Your report should include:
 - Steps to reproduce the issue.
 - Any potential impact or exploit scenarios.
 
-We will acknowledge your report within 48 hours and work with you to resolve the issue as quickly as possible.
-
 ## Disclosure Policy
 We follow a responsible disclosure process. We ask that you keep the vulnerability details confidential until a patch has been released and users have had a reasonable amount of time to update their systems.
 
