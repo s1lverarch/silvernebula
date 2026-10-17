@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="icon.png" width="600">
-  <h1>Silverarch Repositories</h1>
+  <h1>SilverNebula Repository</h1>
   <p><i>build, create, add, and own</i></p>
 </div>
 
@@ -22,9 +22,9 @@ sudo nano /etc/pacman.conf
 2-Put this in bottom of your config 
 
 ```bash
-[silverarch-repo]
+[silvernebula]
 SigLevel = Optional TrustAll
-Server = https://raw.githubusercontent.com/s1lverarch/silverarch-repo/main/x86_64/
+Server = https://raw.githubusercontent.com/s1lverarch/silvernebula/main/x86_64/
 ```
 
 ## Update Pacman
@@ -65,7 +65,7 @@ the first Tunisian-Arabic Arch-based Linux distribution
 
 <div align="center">
   
-  <a href="https://github.com/iyed-one-st/silverarch-repo">
+  <a href="https://github.com/iyed-one-st/silvernebula">
     <img src="https://img.shields.io/badge/GitHub-silverarch--repo-181717?style=for-the-badge&logo=github">
   </a>
 
@@ -90,7 +90,7 @@ If you Want To Put your Pkg (Linux) Talk with Silvercore in "s1lv3rcore@proton.m
 
 ## License
 
-This Project Is Protected By [GPL-v3.0](https://github.com/iyed-one-st/silverarch-repo/blob/main/LICENSE)
+This Project Is Protected By [GPL-v3.0](https://github.com/iyed-one-st/silvernebula/blob/main/LICENSE)
 
 Included Software: All other packages retain their original licenses as provided by their respective upstream developers.
                 
