@@ -1,0 +1,3 @@
+*.priv.asc
+nimcache/
+*.log
