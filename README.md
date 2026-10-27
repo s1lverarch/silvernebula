@@ -1,5 +1,7 @@
 # SilverNebula
 
+<img width="750" height="750" alt="silvernebula" src="https://github.com/user-attachments/assets/e959b849-acea-428d-89c2-d1051d12608f" />
+
 > Official package repository for SilverArch Linux.
 
 ![license](https://img.shields.io/badge/license-GPL--v3.0-00FF7F?style=flat-square)
@@ -7,6 +9,10 @@
 ![status](https://img.shields.io/badge/status-alpha-FFD700?style=flat-square)
 
 SilverNebula is a pacman repository that ships the SilverArch tools, signed with the SilverNebula GPG key.
+
+## Trailer
+
+<img width="800" height="450" alt="download" src="https://github.com/user-attachments/assets/9ba024e6-b964-49ab-899b-a43a57f9114f" />
 
 ## Packages
 
