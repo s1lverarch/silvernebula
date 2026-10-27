@@ -1,7 +1,5 @@
 # SilverNebula
 
-<img width="750" height="750" alt="silvernebula" src="https://github.com/user-attachments/assets/e959b849-acea-428d-89c2-d1051d12608f" />
-
 > Official package repository for SilverArch Linux.
 
 ![license](https://img.shields.io/badge/license-GPL--v3.0-00FF7F?style=flat-square)
